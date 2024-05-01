@@ -1,0 +1,56 @@
+.acessibilidade{
+    
+    margin-bottom: -70px;
+    margin-right: 10px;
+}
+.botao{
+padding-left: 180%;
+padding-bottom: 50px;
+
+}
+  #limpar{
+    margin-left: 10px;
+  }
+.um{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.dois{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+  }
+   
+  header {
+    
+    color: #fff;
+    
+  }
+   
+  .controles {
+    margin-top: 10px;
+  }
+   
+  .controles button {
+    margin-right: 10px;
+  }
+   
+  .conteudo {
+    padding: 20px;
+  }
+   
+  .alto-contraste {
+    background-color: #000;
+    color: #fff;
+  }
+   
+  .baixo-contraste {
+    background-color: #f0f0f086;
+    color: #000;
+  }
+   
